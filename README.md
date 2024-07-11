@@ -1,1 +1,1 @@
-#MNIST CNN from Scratch using NumPy
+# MNIST CNN from Scratch using NumPy
